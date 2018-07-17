@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="spring_5_1_ex1_springex"/>
-<aop-project name="spring_4_1_ex1_springex"/>
 <aop-project name="spring_2_2_ex1_springex"/>
 <aop-project name="spring_3_1_ex1_springex"/>
+<aop-project name="spring_8_1_ex1_springex"/>
+<aop-project name="spring_7_2_ex1_springex"/>
+<aop-project name="spring_6_1_ex1_springex"/>
 <aop-project name="spring_5_2_ex1_springex"/>
+<aop-project name="spring_4_1_ex1_springex"/>
+<aop-project name="spring_7_3_ex1_springex"/>
+<aop-project name="spring_8_2_ex1_springex"/>
+<aop-project name="spring_7_1_ex1_springex"/>
+<aop-project name="spring_6_2_ex1_springex"/>
+<aop-project name="spring_8_2_ex2_springex"/>
 </aop-reference-model>
